@@ -1,5 +1,8 @@
 # Rekindled-OpenGL-Build
-This is a game I made with 7 others.
+This is a game demo build of a game I made with 7 others.
+The full game has a skill system and is downloadable at:
+https://drive.google.com/file/d/12OYhun7cD1Kibl-nsVGyOCt6sFFC6Hf_/view?usp=sharing
+
 
 wasd = move keys
 
