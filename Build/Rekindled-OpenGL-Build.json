@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
-"productName": "game",
-"productVersion": "1.0",
+"companyName": "TBD",
+"productName": "Rekindled",
+"productVersion": "0.1",
 "dataUrl": "Rekindled-OpenGL-Build.data.unityweb",
 "wasmCodeUrl": "Rekindled-OpenGL-Build.wasm.code.unityweb",
 "wasmFrameworkUrl": "Rekindled-OpenGL-Build.wasm.framework.unityweb",
