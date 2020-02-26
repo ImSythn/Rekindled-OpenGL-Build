@@ -1,5 +1,5 @@
 # Rekindled-OpenGL-Build
-This is a game demo build of a game I made with 7 others:
+This is a Rekindled demo. A Darksouls, diablo III esk game:
 https://imsythn.github.io/Rekindled-OpenGL-Build/
 
 The full game has a skill system and is downloadable at:
