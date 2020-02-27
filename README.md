@@ -5,6 +5,10 @@ https://imsythn.github.io/Rekindled-OpenGL-Build/
 The full game has a skill system and is downloadable at:
 https://drive.google.com/file/d/12OYhun7cD1Kibl-nsVGyOCt6sFFC6Hf_/view?usp=sharing
 
+![alt text](https://cdn.discordapp.com/attachments/619483988104445956/673017009877024788/PosterRekindled.png)
+
+
+Controls:
 
 wasd = move keys
 
