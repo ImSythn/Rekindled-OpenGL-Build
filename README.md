@@ -1,5 +1,5 @@
 # Rekindled-OpenGL-Build
-This is a Rekindled demo. A Dark Souls/Diablo III-esque game.
+This is a Rekindled demo. An ARPG with souls like combat.
 
 Playable online demo: https://imsythn.github.io/Rekindled-OpenGL-Build/
 
